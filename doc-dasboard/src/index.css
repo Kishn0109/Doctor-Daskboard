@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.primary-color{
+  --color-primary: red;
+  --color-secondary: 111 114 185;
+  background-color: pink;
+}
